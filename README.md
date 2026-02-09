@@ -20,7 +20,11 @@ _This document describes the basic steps to install and enable the program `conf
 
 Para instalar o `configure_when_laptop_lid_is_closed`, siga os passos abaixo:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando:
+
+    ```bash
+    Ctrl + Alt + T
+    ```
 
 2. Certifique-se de que seu sistema esteja limpo e atualizado.
 
