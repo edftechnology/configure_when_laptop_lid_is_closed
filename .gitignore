@@ -179,3 +179,4 @@ dmypy.json
 .pyre/
 
 .jupyter_ystore.db
+!docs/references/
